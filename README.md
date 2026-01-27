@@ -11,9 +11,8 @@ This project demonstrates **simulation-based data generation** for machine learn
 - Train and compare ML regression models  
 
 ## Mathematical Model
-\[
-y = a \cdot x^2 + b \cdot \sin(x)
-\]
+y = a * x^2 + b * sin(x)
+
 
 **Target Variable:** `y`
 
